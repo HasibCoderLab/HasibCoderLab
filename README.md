@@ -39,6 +39,15 @@
 </div>
 
 <br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HasibCoderLab&show_icons=true&theme=dark&locale=en&hide_border=false" alt="GitHub Stats" width="300" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasibCoderLab&theme=dark&hide_border=false" alt="Top Languages" width="300" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HasibCoderLab&theme=dark&mode=weekly&hide_border=false&locale=en" alt="GitHub Streak" width="300" />
+</p>
 
 <h1 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='50'/>
