@@ -5,7 +5,7 @@
 <!-- Badge -->
 <p align="center">
   <img src="http://img.shields.io/badge/Code%20Time%20Per%20Day%20Avg-06%20hrs%2024%20mins-blue" alt="Code Time" />
-  <img src="https://img.shields.io/badge/focus-FullStack-critical" alt="Focus" />
+  <img src="https://img.shields.io/badge/focus-FullStack & Cyber Security Expart-critical" alt="Focus" />
   <img src="https://img.shields.io/badge/projects-60+-important" alt="Projects" />
   <img src="https://img.shields.io/badge/living-Natore-3c9" alt="Living" />
   <img src="https://img.shields.io/badge/age-17-blueviolet" alt="Age" />
@@ -29,14 +29,15 @@
 
 <div>
 
-- 🎯 I’m currently learning JavaScript and React.
-- 🥅 **2024 Goals:** To be a Master of Next.js and Python.
-- 🥅 **2025 Goals:** To be a Master of AWS and start learning DevOps.
-- 🕵️‍♂️ Please have a look at my [Portfolio Site](https://your-portfolio-link.com) for more details about me.
-- 💻 Currently working on personal projects.
-- 📫 How to reach me: your.- Email: [mohammodhasibhasan@gmail.com](mailto:mohammodhasibhasan@gmail.com)
+- 🎯 **Currently Learning:** JavaScript and React.
+- 🥅 **2025 Goals:** Master Next.js, Python, and Linux.
+- 🥅 **2026 Goals:** Master AWS, dive into DevOps, and explore Cyber Security.
+- 🕵️‍♂️ **Portfolio:** [Visit my portfolio](https://your-portfolio-link.com) for more details.
+- 💻 **Current Focus:** Working on personal projects.
+- 📫 **Reach Me:** [mohammodhasibhasan@gmail.com](mailto:mohammodhasibhasan@gmail.com)
 
 </div>
+
 <br/>
 
 <h1 align="center">
