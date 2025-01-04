@@ -80,14 +80,11 @@
 <h1 align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 💝 Github Status 💝 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> </h1><div align="center">
 <hr>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HasibCoderLab&show_icons=true&theme=dark&locale=en&hide_border=false" alt="GitHub Stats" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HasibCoderLab&show_icons=true&theme=dark&locale=en&hide_border=false" alt="GitHub Stats" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasibCoderLab&theme=dark&hide_border=false" alt="Top Languages" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HasibCoderLab&theme=dark&mode=weekly&hide_border=false&locale=en" alt="GitHub Streak" width="400" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasibCoderLab&theme=dark&hide_border=false" alt="Top Languages" width="300" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HasibCoderLab&theme=dark&mode=weekly&hide_border=false&locale=en" alt="GitHub Streak" width="300" />
-</p>
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=HasibCoderLab&theme=matrix&column=6&margin-w=15&margin-h=15" alt="Trophies"/>
 </p> 
