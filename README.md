@@ -1,10 +1,10 @@
 <h1 align="center">💥 💫💥 🎉🌟Welcome to HasibCoderLab🌟🎉 💥💫💥</h1>
 
-<h1 align="center">Hi there! 👋 </h1>
+<h1 align="center"> Hi there!  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> </h1>
 
 <!-- Badge -->
 <p align="center">
-  <img src="http://img.shields.io/badge/Code%20Time%20Per%20Day%20Avg-06%20hrs%2024%20mins-blue" alt="Code Time" />
+  <img src="http://img.shields.io/badge/Code%20Time%20Per%20Day%20Avg-04%20hrs%2024%20mins-blue" alt="Code Time" />
   <img src="https://img.shields.io/badge/focus-FullStack & Cyber Security Expart-critical" alt="Focus" />
   <img src="https://img.shields.io/badge/projects-60+-important" alt="Projects" />
   <img src="https://img.shields.io/badge/living-Natore-3c9" alt="Living" />
@@ -80,9 +80,9 @@
 <h1 align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 💝 Github Status 💝 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> </h1><div align="center">
 <hr>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HasibCoderLab&show_icons=true&theme=dark&locale=en&hide_border=false" alt="GitHub Stats" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasibCoderLab&theme=dark&hide_border=false" alt="Top Languages" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HasibCoderLab&theme=dark&mode=weekly&hide_border=false&locale=en" alt="GitHub Streak" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HasibCoderLab&show_icons=true&theme=radical" alt="GitHub Stats" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasibCoderLab&layout=compact&theme=radical" alt="Top Languages" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HasibCoderLab&theme=radical" alt="GitHub Streak" width="400" />
 </p>
 
 <p align="center">
@@ -95,7 +95,7 @@
   <a href="https://github.com/HasibCoderLab" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
   </a>
-  <a href="https://www.linkedin.com/in/mohammod-hasib-hasan-coder-bo" target="_blank">
+  <a href="https://www.linkedin.com/in/mohammod-hasib-hasan-coder-boy" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://x.com/Coderhasib" target="_blank">
