@@ -1,6 +1,6 @@
 <h1 align="center">💥 💫💥 🎉🌟Welcome to HasibCoderLab🌟🎉 💥💫💥</h1>
 
-<h1 align="center"> Hi there!  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> </h1>
+<h1 align="center"> Hi there! 👋 </h1>
 
 <!-- Badge -->
 <p align="center">
