@@ -82,7 +82,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HasibCoderLab&show_icons=true&theme=radical" alt="GitHub Stats" width="400" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasibCoderLab&layout=compact&theme=radical" alt="Top Languages" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HasibCoderLab&theme=radical" alt="GitHub Streak" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HasibCoderLab&theme=dark&mode=weekly&hide_border=false&locale=en" alt="GitHub Streak" width="400" />
 </p>
 
 <p align="center">
@@ -107,4 +107,4 @@
   <a href="https://www.leetcode.com/CoderBoyHasib" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
-</p
+</p>
