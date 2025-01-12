@@ -80,9 +80,9 @@
 <h1 align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 💝 Github Status 💝 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> </h1><div align="center">
 <hr>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HasibCoderLab&show_icons=true&theme=radical" alt="GitHub Stats" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasibCoderLab&layout=compact&theme=radical" alt="Top Languages" width="400" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HasibCoderLab&theme=dark&mode=weekly&hide_border=false&locale=en" alt="GitHub Streak" width="300" />
+  <img  height="auto" width={300}  src="https://github-readme-stats.vercel.app/api?username=HasibCoderLab&show_icons=true&theme=radical" alt="GitHub Stats"  />
+  <img  height="auto" width={300} src="https://github-readme-streak-stats.herokuapp.com/?user=HasibCoderLab&layout=compact&theme=radical" alt="profile-radme-generator" />
+  <img  height="auto" width={300} src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasibCoderLab&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
 <p align="center">
