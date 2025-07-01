@@ -13,21 +13,19 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=HasibCoderLab&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
-<div>
-  
-  <h3 align="center">
-    <img src="https://bestanimations.com/media/bangladesh/1932860375bangladesh-flag-waving-gif-animation-6.gif" width="100px" height="60px"/> 
-    <br/> 
-    Hello, I'm Mohammad Hasib Hasan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">! 
-    <br/> 
-    I'm an enthusiastic and passionate Web Developer from Bangladesh.
-  </h3>
-  <div align="left" text-align="justify">
-    I am a web developer💖✨ with a passion for building innovative and user-friendly websites and applications. I specialize in the 💥JavaScript and 🎯React and have a strong foundation in front-end development. I am excited to bring my skills and experience to new opportunities and help build the next generation of web-based solutions🚀.
-  </div>
-  <br />
 
-<div>
+<h3 align="center">
+  <img src="https://bestanimations.com/media/bangladesh/1932860375bangladesh-flag-waving-gif-animation-6.gif" width="100px" height="60px"/> <br/>
+  Hello, I'm Mohammad Hasib Hasan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">! <br/>
+  I'm an enthusiastic and passionate Web Developer from Bangladesh.
+</h3>
+
+<div align="center" text-align="justify">
+  I am a web developer💖✨ with a passion for building innovative and user-friendly websites and applications. I specialize in the 💥JavaScript and 🎯React and have a strong foundation in front-end development. I am excited to bring my skills and experience to new opportunities and help build the next generation of web-based solutions🚀.
+</div>
+<br />
+
+---
 
 - 🎯 **Currently Learning:** JavaScript and React.
 - 🥅 **2025 Goals:** Master Next.js, Python, and Linux.
@@ -36,65 +34,47 @@
 - 💻 **Current Focus:** Working on personal projects.
 - 📫 **Reach Me:** [mohammodhasibhasan@gmail.com](mailto:mohammodhasibhasan@gmail.com)
 
-</div>
-
-<br/>
-
+---
 
 <h1 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='50'/>
   &nbsp;Technologies that I know
 </h1>
 <p align="center">
- <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40" />
-  </a>
+  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" /></a>
+  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" /></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" /></a>
+  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" /></a>
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" /></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" /></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40" /></a>
 </p>
 
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes" width="900" height="110" />
 </p>
 
-<hr>
-<h1 align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 💝 Github Status 💝 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> </h1><div align="center">
-<hr>
+---
 
- <img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api?username=HasibCoderLab&show_icons=true&theme=dark&locale=en&hide_border=false" alt="profile-radme-generator" />
+<h1 align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
+  <span style="color:#ff66cc">✨💖 Github Status 💖✨</span> 
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
+</h1>
 
-
-
-<img align="left" height="auto" width={300} src="https://github-readme-streak-stats.herokuapp.com/?user=HasibCoderLab&theme=dark&mode=weekly&hide_border=false&locale=en" alt="profile-radme-generator" />
-
-
-
-<img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasibCoderLab&theme=dark&hide_border=false" alt="profile-radme-generator" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HasibCoderLab&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10" width="330" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HasibCoderLab&theme=tokyonight&hide_border=false" width="330" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasibCoderLab&layout=compact&theme=tokyonight&hide_border=false" width="330" />
+</p>
 
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=HasibCoderLab&theme=matrix&column=6&margin-w=15&margin-h=15" alt="Trophies"/>
 </p> 
 
+---
 
 ## 🌐 Connect with Me:
 <p>
