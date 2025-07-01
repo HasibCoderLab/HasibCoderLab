@@ -76,8 +76,9 @@
 
 ---
 
-## 🌐 Connect with Me:
-<p>
+<h2 align="center">🌐 Connect with Me</h2>
+
+<p align="center">
   <a href="https://github.com/HasibCoderLab" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
   </a>
