@@ -15,15 +15,19 @@
 </p>
 
 <h3 align="center">
-  <img src="https://bestanimations.com/media/bangladesh/1932860375bangladesh-flag-waving-gif-animation-6.gif" width="100px" height="60px"/> <br/>
-  Hello, I'm Mohammad Hasib Hasan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">! <br/>
-  I'm an enthusiastic and passionate Web Developer from Bangladesh.
+  <img src="https://bestanimations.com/media/bangladesh/1932860375bangladesh-flag-waving-gif-animation-6.gif" width="100px" height="60px"/><br/>
+  Hello, I'm <strong>Mohammad Hasib Hasan</strong>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> <br/>
+  <em>I'm an enthusiastic and passionate Web Developer from Bangladesh.</em>
 </h3>
 
-<div align="center" text-align="justify">
-  I am a web developer💖✨ with a passion for building innovative and user-friendly websites and applications. I specialize in the 💥JavaScript and 🎯React and have a strong foundation in front-end development. I am excited to bring my skills and experience to new opportunities and help build the next generation of web-based solutions🚀.
-</div>
+<p align="center">
+  I am a <strong>Web Developer 💖✨</strong> with a passion for building innovative and user-friendly websites and applications.<br/>
+  I specialize in <strong>💥JavaScript</strong> and <strong>🎯React</strong>, and have a strong foundation in front-end development.<br/>
+  I'm excited to bring my skills and experience to new opportunities and help build the next generation of web-based solutions 🚀.
+</p>
+
 <br />
+
 
 ---
 
