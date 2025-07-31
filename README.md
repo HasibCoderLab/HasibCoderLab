@@ -7,7 +7,7 @@
   <img src="http://img.shields.io/badge/Code%20Time%20Per%20Day%20Avg-04%20hrs%2024%20mins-blue" alt="Code Time" />
   <img src="https://img.shields.io/badge/focus-FullStack & Cyber Security Expart-critical" alt="Focus" />
   <img src="https://img.shields.io/badge/projects-60+-important" alt="Projects" />
-  <img src="https://img.shields.io/badge/living-Natore-3c9" alt="Living" />
+  <img src="https://img.shields.io/badge/living-Ragshahi-3c9" alt="Living" />
   <img src="https://img.shields.io/badge/age-17-blueviolet" alt="Age" />
 </p>
 <p align="center">
@@ -22,7 +22,7 @@
 
 <p align="center">
   I am a <strong>Web Developer 💖✨</strong> with a passion for building innovative and user-friendly websites and applications.<br/>
-  I specialize in <strong>💥JavaScript</strong> and <strong>🎯React</strong>, and have a strong foundation in front-end development.<br/>
+  I specialize in <strong>💥JavaScript</strong> and <strong>🎯C</strong>, and have a strong foundation in front-end development.<br/>
   I'm excited to bring my skills and experience to new opportunities and help build the next generation of web-based solutions 🚀.
 </p>
 
