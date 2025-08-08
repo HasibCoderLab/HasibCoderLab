@@ -30,13 +30,44 @@
 
 
 ---
+## 🚀 About Me
 
-- 🎯 **Currently Learning:** JavaScript and React.
-- 🥅 **2025 Goals:** Master Next.js, Python, and Linux.
-- 🥅 **2026 Goals:** Master AWS, dive into DevOps, and explore Cyber Security.
-- 🕵️‍♂️ **Portfolio:** [Visit my portfolio](https://coderhasib.vercel.app/) for more details.
-- 💻 **Current Focus:** Working on personal projects.
-- 📫 **Reach Me:** [mohammodhasibhasan@gmail.com](mailto:mohammodhasibhasan@gmail.com)
+<table>
+<tr>
+<td>
+
+- 🎯 **Currently Learning:** JavaScript and C  
+- 🥅 **2025 Goals:** Master C++, Competitive Programming, and Linux
+- 🥅 **2026 Goals:** Master AWS, Robotics, Python, and explore Cyber Security 
+- 🕵️‍♂️ **Portfolio:** [Visit my portfolio](https://coderhasib.vercel.app/)  
+- 💻 **Current Focus:** Working on personal projects  
+- 📫 **Reach Me:** [mohammodhasibhasan@gmail.com](mailto:mohammodhasibhasan@gmail.com)  
+
+
+</td>
+<td>
+
+### 📊 Skill Progress
+
+| Skill                   | Progress           |
+|-------------------------|--------------------|
+| JavaScript              | ██████████████░░ 70% |
+| Linux                   | ███░░░░░░░░░░░░░ 30% |
+| C                       | ██░░░░░░░░░░░░░░ 20% |
+| Competitive Programming | █░░░░░░░░░░░░░░░ 10% |
+| Python                  | █░░░░░░░░░░░░░░░ 10% |
+| Robotics                | ░░░░░░░░░░░░░░░░ 5%  |
+| Cyber Security          | ░░░░░░░░░░░░░░░░ 5%  |
+| C++                     | ░░░░░░░░░░░░░░░░ 0%  |
+| AWS                     | ░░░░░░░░░░░░░░░░ 0%  |
+
+
+
+✨ _Always learning, always growing!_
+
+</td>
+</tr>
+</table>
 
 ---
 
