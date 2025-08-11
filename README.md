@@ -37,7 +37,7 @@
 <td>
 
 - 🎯 **Currently Learning:**  
-  JavaScript and React  
+  JavaScript and C  
 
 - 🥅 **2025 Goals:**  
   Master Next.js, Python, and Linux  
