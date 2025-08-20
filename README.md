@@ -16,7 +16,7 @@
 
 <h3 align="center">
   <img src="https://bestanimations.com/media/bangladesh/1932860375bangladesh-flag-waving-gif-animation-6.gif" width="90" height="55" alt="Bangladesh Flag"/><br/>
-  Hello, I'm <strong>Mohammad Hasib Hasan</strong>! 
+  ⚡ It's me, <strong>Mohammad Hasib Hasan</strong>! ✨
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="28" height="28" alt="Hi">
   <br/>
    <em>💻 Crafting Ideas into Code | Enthusiastic Web Developer from Bangladesh ✨✨ </em>
