@@ -15,10 +15,14 @@
 </p>
 
 <h3 align="center">
-  <img src="https://bestanimations.com/media/bangladesh/1932860375bangladesh-flag-waving-gif-animation-6.gif" width="100px" height="60px"/><br/>
-  Hello, I'm <strong>Mohammad Hasib Hasan</strong>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> <br/>
-  <em>I'm an enthusiastic and passionate Web Developer from Bangladesh.</em>
+  <img src="https://bestanimations.com/media/bangladesh/1932860375bangladesh-flag-waving-gif-animation-6.gif" width="90" height="55" alt="Bangladesh Flag"/><br/>
+  Hello, I'm <strong>Mohammad Hasib Hasan</strong>! 
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="28" height="28" alt="Hi">
+  <br/>
+   <em>💻 Crafting Ideas into Code | Enthusiastic Web Developer from Bangladesh ✨✨ </em>
+
 </h3>
+
 
 <p align="center">
   I am a <strong>Web Developer 💖✨</strong> with a passion for building innovative and user-friendly websites and applications.<br/>
