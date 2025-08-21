@@ -1,6 +1,7 @@
 <h1 align="center">💫🌟Welcome to HasibCoderLab🌟💫 </h1>
 
-<h1 align="center"> Hi there! 👋 </h1>
+<h1 align="center"> Hi there!  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="73" height="73" alt="Hi"> </h1>   </h1>   
+
 
 <!-- Badge -->
 <p align="center">
@@ -16,8 +17,7 @@
 
 <h3 align="center">
   <img src="https://bestanimations.com/media/bangladesh/1932860375bangladesh-flag-waving-gif-animation-6.gif" width="90" height="55" alt="Bangladesh Flag"/><br/>
-  ⚡ It's me, <strong>Mohammad Hasib Hasan</strong>! ✨
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="28" height="28" alt="Hi">
+  ⚡ It's me, <strong>Mohammad Hasib Hasan</strong>! ✨👋
   <br/>
    <em>💻 Crafting Ideas into Code | Enthusiastic Web Developer from Bangladesh ✨✨ </em>
 
