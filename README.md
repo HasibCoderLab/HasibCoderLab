@@ -19,13 +19,13 @@
   <img src="https://bestanimations.com/media/bangladesh/1932860375bangladesh-flag-waving-gif-animation-6.gif" width="90" height="55" alt="Bangladesh Flag"/><br/>
   ⚡ It's me, <strong>Mohammad Hasib Hasan</strong>! ✨👋
   <br/>
-   <em>💻 Crafting Ideas into Code | Enthusiastic Web Developer from Bangladesh ✨✨ </em>
+   <em>💻 Crafting Ideas into Code | Enthusiastic Web Developer & competitive programmerfrom Bangladesh ✨✨ </em>
 
 </h3>
 
 
 <p align="center">
-  I am a <strong>Web Developer 💖✨</strong> with a passion for building innovative and user-friendly websites and applications.<br/>
+  I am a <strong>Web Developer & competitive programmer 💖✨</strong> with a passion for building innovative and user-friendly websites and applications.<br/>
   I specialize in <strong>💥JavaScript</strong> and <strong>🎯C</strong>, and have a strong foundation in front-end development.<br/>
   I'm excited to bring my skills and experience to new opportunities and help build the next generation of web-based solutions 🚀.
 </p>
