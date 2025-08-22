@@ -19,7 +19,7 @@
   <img src="https://bestanimations.com/media/bangladesh/1932860375bangladesh-flag-waving-gif-animation-6.gif" width="90" height="55" alt="Bangladesh Flag"/><br/>
   ⚡ It's me, <strong>Mohammad Hasib Hasan</strong>! ✨👋
   <br/>
-   <em>💻 Crafting Ideas into Code | Enthusiastic Web Developer & competitive programmer from Bangladesh ✨✨ </em>
+   <em>💻 Crafting Ideas into Code | Enthusiastic Web Developer & Competitive Programmer from Bangladesh  ✨✨ </em>
 
 </h3>
 
