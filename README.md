@@ -24,7 +24,7 @@
 </h3>
 
 <p align="center">
-  I am a <strong>Web Developer & Competitive Programmer 💖✨</strong> driven by a passion for creating innovative and user-friendly web solutions.<br/>
+I am a <strong>Web Developer & Competitive Programmer 💖✨</strong> driven by a passion for creating innovative and user-friendly web solutions.<br/>
   Proficient in <strong>💥 JavaScript</strong> and <strong>🎯 C</strong>, with a strong foundation in Web development, algorithms, and problem-solving.<br/>
   Always eager to apply my skills, embrace new opportunities, and contribute to building the next generation of digital experiences 🚀.
 </p>
@@ -33,7 +33,7 @@
 
 ---
 <h1 align="center">
-## 🚀 About Me
+ 🚀 About Me
 </h1>
 
 <table>
