@@ -79,14 +79,16 @@ I am a <strong>Web Developer & Competitive Programmer 💖✨</strong> driven by
 
 
 
-✨ _Always learning, always growing!_
-
 </td>
 </tr>
 </table>
-----
-<h3 align="center">✨ _Always learning, always growing!_</h3>
-----
+
+---
+
+<h3 align="center">✨✨ <i>Always learning, always growing!</i> ✨✨</h3>
+<hr style="border: 1px solid #999; width: 80%; margin: auto;" />
+
+
 
 <h1 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='50'/>
