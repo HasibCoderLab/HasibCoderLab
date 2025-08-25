@@ -85,6 +85,7 @@ I am a <strong>Web Developer & Competitive Programmer 💖✨</strong> driven by
 </tr>
 </table>
 
+<h3 align="center">✨ _Always learning, always growing!_</h3>
 ---
 
 <h1 align="center">
