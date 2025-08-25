@@ -106,7 +106,7 @@ I am a <strong>Web Developer & Competitive Programmer 💖✨</strong> driven by
 </p>
 
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api" alt="Jokes" width="900" height="130" />
+  <img src="https://readme-jokes.vercel.app/api" alt="Jokes" width="900" height="140" />
 </p>
 
 ---
