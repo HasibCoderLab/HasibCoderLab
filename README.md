@@ -11,9 +11,17 @@
   <img src="https://img.shields.io/badge/living-Rajshahi-3c9" alt="Living" />
   <img src="https://img.shields.io/badge/age-17-blueviolet" alt="Age" />
 </p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=HasibCoderLab&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=🔗+Competitive+Programmer;✨+Open-Source+Contributor;🌐+Web+Developer;💻+Crafting+Ideas+into+Code;🚀+1.5%2B+Years+Coding+Experience;🔰+✨✨+Always+learning,+always+growing!+✨✨&center=true&width=850&height=100&pause=1500&size=40&speed=75&color=ff6ec4&color2=7873f5&vCenter=true&font=Pacifico" alt="Typing Animation"/>
+</p>
+
+
+
+
 
 <h3 align="center">
   <img src="https://bestanimations.com/media/bangladesh/1932860375bangladesh-flag-waving-gif-animation-6.gif" width="90" height="55" alt="Bangladesh Flag"/><br/>
