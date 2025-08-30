@@ -12,6 +12,7 @@
   <img src="https://img.shields.io/badge/age-17-blueviolet" alt="Age" />
 </p>
 
+<!-- Animation -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=HasibCoderLab&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
