@@ -35,7 +35,7 @@
 
 <p align="center">
 I am a <strong>Web Developer & Competitive Programmer 💖✨</strong> driven by a passion for creating innovative and user-friendly web solutions.<br/>
-  Proficient in <strong>💥 JavaScript</strong> and <strong>🎯 C</strong>, with a strong foundation in Web development, algorithms, and problem-solving.<br/>
+  Proficient in <strong>💥 JavaScript</strong> and <strong>🎯 C++</strong>, with a strong foundation in Web development, algorithms, and problem-solving.<br/>
   Always eager to apply my skills, embrace new opportunities, and contribute to building the next generation of digital experiences 🚀.
 </p>
 
@@ -51,7 +51,7 @@ I am a <strong>Web Developer & Competitive Programmer 💖✨</strong> driven by
 <td>
 
 - 🎯 **Currently Learning:**  
-  JavaScript and C  
+  JavaScript and C++  
 
 - 🥅 **2025 Goals:**  
   Master Next.js, Python, and Linux  
@@ -62,8 +62,12 @@ I am a <strong>Web Developer & Competitive Programmer 💖✨</strong> driven by
 - 🕵️‍♂️ **Portfolio:**  
   [Visit my portfolio](https://coderhasib.vercel.app/)  
 
+- 📚 **Also Exploring:**  
+  🧩 Problem-Solving Strategies & Competitive Programming 🏆
+  
 - 💻 **Current Focus:**  
-  Working on personal projects  
+ 🌌 Turning code into creativity — Web | Python | C++  
+ 
 
 - 📫 **Reach Me:**  
   [coder.mohammadhasibhasan@gmail.com](mailto:coder.mohammadhasibhasan@gmail.com)  
