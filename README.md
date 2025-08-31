@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=🔗+Competitive+Programmer;💻+Problem-Solver;✨+Open-Source+Contributor;🌐+Web+Developer;🚀+C%2FC%2B%2B+%26+JavaScript+Learner;📘+Exploring+Mathematics+%26+Programming;💡+Turning+Ideas+into+Projects;🤖+Future+Robotics+Engineer;✨+Always+learning,+always+growing!+✨&center=true&width=900&height=100&pause=1500&size=38&speed=75&color=ff6ec4&color2=7873f5&vCenter=true&font=Pacifico" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=🔗+Competitive+Programmer;💻+Problem-Solver;✨+Open-Source+Contributor;🌐+Web+Developer;🚀+C%2FC%2B%2B+%26+JavaScript+Learner;✨+🧠+Turning+Thoughts+Into+Algorithms+✨;💡+Turning+Ideas+into+Projects;🤖+Future+Robotics+Engineer;🌈+✨+Always+learning,+always+growing!+✨🌈&center=true&width=900&height=100&pause=1500&size=38&speed=75&color=ff6ec4&color2=f9f871&vCenter=true&font=Pacifico" alt="Typing Animation"/>
 </p>
 
 
@@ -63,10 +63,10 @@ I am a <strong>Web Developer & Competitive Programmer 💖✨</strong> driven by
   [Visit my portfolio](https://coderhasib.vercel.app/)  
 
 - 📚 **Also Exploring:**  
-  🧩 Problem-Solving Strategies & Competitive Programming 🏆
+   Problem-Solving Strategies & Competitive Programming 🏆
   
 - 💻 **Current Focus:**  
- 🌌 Turning code into creativity — Web | Python | C++  
+ 🌌 Turning code into creativity — Web |C++  
  
 
 - 📫 **Reach Me:**  
