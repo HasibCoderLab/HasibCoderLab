@@ -150,7 +150,7 @@ I am a <strong>Web Developer & Competitive Programmer 💖✨</strong> driven by
   <a href="https://github.com/HasibCoderLab" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
   </a>
-  <a href="https://www.linkedin.com/in/mohammod-hasib-hasan-coder-boy" target="_blank">
+  <a href="https://www.linkedin.com/in/coder-mohammod-hasib-hasan" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://x.com/Coderhasib" target="_blank">
@@ -159,7 +159,23 @@ I am a <strong>Web Developer & Competitive Programmer 💖✨</strong> driven by
   <a href="https://codeforces.com/profile/Coderhasib" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
   </a>
-  <a href="https://www.leetcode.com/CoderBoyHasib" target="_blank">
+  <a href="https://leetcode.com/u/CoderHasib/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+
+
+<!-- CodeChef -->
+<a href="https://www.codechef.com/users/coderhasib" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codechef.svg" alt="CodeChef" height="30" width="40" />
+</a>
+
+<!-- Facebook -->
+<a href="https://www.facebook.com/coder.mohammadhasibhasan" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+      <!-- YouTube -->
+<a href="https://www.youtube.com/@CodeFusionary" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
+</a>
+</a>
+
   </a>
 </p>
