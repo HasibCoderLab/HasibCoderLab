@@ -7,7 +7,7 @@
 <p align="center">
   <img src="http://img.shields.io/badge/Code%20Time%20Per%20Day%20Avg-04%20hrs%2024%20mins-blue" alt="Code Time" />
   <img src="https://img.shields.io/badge/focus-FullStack & Cyber Security Expart-critical" alt="Focus" />
-  <img src="https://img.shields.io/badge/projects-60+-important" alt="Projects" />
+  <img src="https://img.shields.io/badge/projects-100+-important" alt="Projects" />
   <img src="https://img.shields.io/badge/living-Rajshahi-3c9" alt="Living" />
   <img src="https://img.shields.io/badge/age-17-blueviolet" alt="Age" />
 </p>
