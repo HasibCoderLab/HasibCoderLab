@@ -42,12 +42,13 @@ I am a <strong>Web Developer & Competitive Programmer 💖✨</strong> driven by
 
 
 ---
+---
 <h1 align="center">
  🚀 About Me
 </h1>
 
 - 🎯 **Currently Learning:**  
-  JavaScript and C++  
+  JavaScript, React,DSA  
 
 - 🥅 **2025 Goals:**  
   Master Next.js, Python, and Linux  
@@ -56,32 +57,19 @@ I am a <strong>Web Developer & Competitive Programmer 💖✨</strong> driven by
   Master AWS, dive into DevOps, and explore Cyber Security  
 
 - 🕵️‍♂️ **Portfolio:**  
-  [Visit my portfolio](https://coderhasib.vercel.app/)  
+  [Visit my portfolio](https://coderhasib.vercel.app/) for more details  
 
 - 📚 **Also Exploring:**  
-   Problem-Solving Strategies & Competitive Programming 🏆
+  Problem-Solving Strategies & Competitive Programming 🏆
   
 - 💻 **Current Focus:**  
- 🌌 Turning code into creativity — Web | C++  
+  Working on personal projects & 🌌 Turning code into creativity — Web | C++  
 
 - 📫 **Reach Me:**  
   [coder.mohammadhasibhasan@gmail.com](mailto:coder.mohammadhasibhasan@gmail.com)  
 
-<!-- 
-### 📊 Skill Progress
+---
 
-| Skill                   | Progress           |
-|-------------------------|--------------------|
-| JavaScript              | ██████████████░░ 70% |
-| Linux                   | ███░░░░░░░░░░░░░ 30% |
-| C                       | ██░░░░░░░░░░░░░░ 20% |
-| Competitive Programming | █░░░░░░░░░░░░░░░ 10% |
-| Python                  | █░░░░░░░░░░░░░░░ 10% |
-| Robotics                | ░░░░░░░░░░░░░░░░ 5%  |
-| Cyber Security          | ░░░░░░░░░░░░░░░░ 0%  |
-| C++                     | ░░░░░░░░░░░░░░░░ 0%  |
-| AWS                     | ░░░░░░░░░░░░░░░░ 0%  |
--->
 
 ---
 
