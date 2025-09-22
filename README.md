@@ -40,7 +40,6 @@ I am a <strong>Web Developer & Competitive Programmer 💖✨</strong> driven by
 </p>
 
 
-
 ---
 <h1 align="center">
  🚀 About Me
@@ -71,12 +70,11 @@ I am a <strong>Web Developer & Competitive Programmer 💖✨</strong> driven by
 
 - 📫 **Reach Me:**  
   [coder.mohammadhasibhasan@gmail.com](mailto:coder.mohammadhasibhasan@gmail.com)  
- 
-
 
 </td>
 <td>
 
+<!-- 
 ### 📊 Skill Progress
 
 | Skill                   | Progress           |
@@ -90,8 +88,7 @@ I am a <strong>Web Developer & Competitive Programmer 💖✨</strong> driven by
 | Cyber Security          | ░░░░░░░░░░░░░░░░ 0%  |
 | C++                     | ░░░░░░░░░░░░░░░░ 0%  |
 | AWS                     | ░░░░░░░░░░░░░░░░ 0%  |
-
-
+-->
 
 </td>
 </tr>
