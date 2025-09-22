@@ -40,14 +40,11 @@ I am a <strong>Web Developer & Competitive Programmer 💖✨</strong> driven by
 </p>
 
 
+
 ---
 <h1 align="center">
  🚀 About Me
 </h1>
-
-<table>
-<tr>
-<td>
 
 - 🎯 **Currently Learning:**  
   JavaScript and C++  
@@ -65,14 +62,10 @@ I am a <strong>Web Developer & Competitive Programmer 💖✨</strong> driven by
    Problem-Solving Strategies & Competitive Programming 🏆
   
 - 💻 **Current Focus:**  
- 🌌 Turning code into creativity — Web |C++  
- 
+ 🌌 Turning code into creativity — Web | C++  
 
 - 📫 **Reach Me:**  
   [coder.mohammadhasibhasan@gmail.com](mailto:coder.mohammadhasibhasan@gmail.com)  
-
-</td>
-<td>
 
 <!-- 
 ### 📊 Skill Progress
@@ -89,10 +82,6 @@ I am a <strong>Web Developer & Competitive Programmer 💖✨</strong> driven by
 | C++                     | ░░░░░░░░░░░░░░░░ 0%  |
 | AWS                     | ░░░░░░░░░░░░░░░░ 0%  |
 -->
-
-</td>
-</tr>
-</table>
 
 ---
 
