@@ -76,7 +76,7 @@ I am a <strong>Web Developer & Competitive Programmer 💖✨</strong> driven by
 <h3 align="center">✨✨ <i>Always learning, always growing!</i> ✨✨</h3>
 <hr style="border: 1px solid #999; width: 80%; margin: auto;" />
 
-
+---
 <h1 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='50'/>
   &nbsp;Technologies that I know
@@ -94,10 +94,14 @@ I am a <strong>Web Developer & Competitive Programmer 💖✨</strong> driven by
   <a href="https://www.learn-c.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" /></a>
 </p>
 
-<p align="center" style="max-width: 100%; overflow: hidden;">
-  <img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%230d1117&textColor=%23ffffff" alt="Jokes" style="max-width: 100%; height: auto;" />
+<p align="center">
+  <img 
+    src="https://readme-jokes.vercel.app/api?bgColor=%230d1117&qColor=%23ffffff&aColor=%23ff79c6&borderColor=%23ff79c6" 
+    alt="Jokes" 
+    width="90%" 
+    style="max-width: 900px; border-radius: 12px; box-shadow: 0 0 10px rgba(255, 121, 198, 0.5);"
+  />
 </p>
-
 
 ---
 
