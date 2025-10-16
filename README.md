@@ -35,7 +35,7 @@
 
 <p align="center">
 I am a <strong>Web Developer & Competitive Programmer 💖✨</strong> driven by a passion for creating innovative and user-friendly web solutions.<br/>
-  Proficient in <strong>💥 JavaScript</strong> and <strong>🎯 C++</strong>, with a strong foundation in Web development, algorithms, and problem-solving.<br/>
+  Proficient in <strong>💥 React </strong> and <strong>🎯 DSA </strong>, with a strong foundation in Web development, algorithms, and problem-solving.<br/>
   Always eager to apply my skills, embrace new opportunities, and contribute to building the next generation of digital experiences 🚀.
 </p>
 
@@ -48,7 +48,7 @@ I am a <strong>Web Developer & Competitive Programmer 💖✨</strong> driven by
 </h1>
 
 - 🎯 **Currently Learning:**  
-  JavaScript, React,DSA  
+   React,DSA  
 
 - 🥅 **2025 Goals:**  
   Master Next.js, Python, and Linux  
