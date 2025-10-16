@@ -86,80 +86,75 @@ I am a <strong>Web Developer & Competitive Programmer 💖✨</strong> driven by
 
 <table>
   <tr>
-    <td align="center" width="120">
-      <a href="https://www.w3.org/html/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" height="50" alt="HTML5" />
-      </a>
-      <br><b>HTML</b>
-    </td>
-    <td align="center" width="120">
-      <a href="https://www.w3schools.com/css/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50" height="50" alt="CSS3" />
-      </a>
-      <br><b>CSS</b>
-    </td>
-    <td align="center" width="120">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" />
-      </a>
-      <br><b>JavaScript</b>
-    </td>
-    <td align="center" width="120">
-      <a href="https://reactjs.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" height="50" alt="React" />
-      </a>
-      <br><b>React</b>
-    </td>
+    <th align="center" colspan="4">🧠 Programming Languages</th>
   </tr>
   <tr>
     <td align="center" width="120">
-      <a href="https://tailwindcss.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" height="50" alt="TailwindCSS" />
-      </a>
-      <br><b>Tailwind</b>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50" height="50" alt="C" /><br><b>C</b>
     </td>
     <td align="center" width="120">
-      <a href="https://getbootstrap.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="50" height="50" alt="Bootstrap" />
-      </a>
-      <br><b>Bootstrap</b>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++" /><br><b>C++</b>
     </td>
     <td align="center" width="120">
-      <a href="https://isocpp.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++" />
-      </a>
-      <br><b>C++</b>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" /><br><b>JavaScript</b>
     </td>
-    <td align="center" width="120">
-      <a href="https://www.learn-c.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50" height="50" alt="C" />
-      </a>
-      <br><b>C</b>
-    </td>
+  </tr>
+
+  <tr>
+    <th align="center" colspan="4">🎨 Frontend Tools</th>
   </tr>
   <tr>
     <td align="center" width="120">
-      <a href="https://git-scm.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" height="50" alt="Git" />
-      </a>
-      <br><b>Git</b>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" height="50" alt="HTML5" /><br><b>HTML</b>
     </td>
     <td align="center" width="120">
-      <a href="https://code.visualstudio.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50" height="50" alt="VS Code" />
-      </a>
-      <br><b>VS Code</b>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50" height="50" alt="CSS3" /><br><b>CSS</b>
     </td>
     <td align="center" width="120">
-      <a href="https://www.linux.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" height="50" alt="Linux" />
-      </a>
-      <br><b>Linux</b>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="50" height="50" alt="Bootstrap" /><br><b>Bootstrap</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" height="50" alt="TailwindCSS" /><br><b>Tailwind</b>
+    </td>
+  </tr>
+
+  <tr>
+    <th align="center" colspan="4">⚙️ Frameworks / Libraries</th>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" height="50" alt="React" /><br><b>React</b>
+    </td>
+  </tr>
+
+  <tr>
+    <th align="center" colspan="4">🧰 Tools</th>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" height="50" alt="Git" /><br><b>Git</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50" height="50" alt="VS Code" /><br><b>VS Code</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" height="50" alt="Linux" /><br><b>Linux</b>
     </td>
   </tr>
 </table>
 
 </div>
+
+---
+
+<p align="center">
+  <img 
+    src="https://readme-jokes.vercel.app/api?bgColor=%230d1117&qColor=%23ffffff&aColor=%23ff79c6&borderColor=%23ff79c6" 
+    alt="Jokes" 
+    width="90%" 
+    style="max-width: 900px; border-radius: 12px; box-shadow: 0 0 10px rgba(255, 121, 198, 0.5);"
+  />
+</p>
 
 ---
 
