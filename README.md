@@ -82,19 +82,86 @@ I am a <strong>Web Developer & Competitive Programmer 💖✨</strong> driven by
   &nbsp;Technologies that I know
 </h1>
 
-<p align="center">
-  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" /></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" /></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" /></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" /></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" /></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40" /></a>
-  <a href="https://isocpp.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" /></a>
-  <a href="https://www.learn-c.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" /></a>
-  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" /></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" /></a>
-</p>
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="120">
+      <a href="https://www.w3.org/html/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" height="50" alt="HTML5" />
+      </a>
+      <br><b>HTML</b>
+    </td>
+    <td align="center" width="120">
+      <a href="https://www.w3schools.com/css/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50" height="50" alt="CSS3" />
+      </a>
+      <br><b>CSS</b>
+    </td>
+    <td align="center" width="120">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" />
+      </a>
+      <br><b>JavaScript</b>
+    </td>
+    <td align="center" width="120">
+      <a href="https://reactjs.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" height="50" alt="React" />
+      </a>
+      <br><b>React</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <a href="https://tailwindcss.com/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" height="50" alt="TailwindCSS" />
+      </a>
+      <br><b>Tailwind</b>
+    </td>
+    <td align="center" width="120">
+      <a href="https://getbootstrap.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="50" height="50" alt="Bootstrap" />
+      </a>
+      <br><b>Bootstrap</b>
+    </td>
+    <td align="center" width="120">
+      <a href="https://isocpp.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++" />
+      </a>
+      <br><b>C++</b>
+    </td>
+    <td align="center" width="120">
+      <a href="https://www.learn-c.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50" height="50" alt="C" />
+      </a>
+      <br><b>C</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <a href="https://git-scm.com/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" height="50" alt="Git" />
+      </a>
+      <br><b>Git</b>
+    </td>
+    <td align="center" width="120">
+      <a href="https://code.visualstudio.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50" height="50" alt="VS Code" />
+      </a>
+      <br><b>VS Code</b>
+    </td>
+    <td align="center" width="120">
+      <a href="https://www.linux.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" height="50" alt="Linux" />
+      </a>
+      <br><b>Linux</b>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
 
 <p align="center">
   <img 
@@ -104,7 +171,6 @@ I am a <strong>Web Developer & Competitive Programmer 💖✨</strong> driven by
     style="max-width: 900px; border-radius: 12px; box-shadow: 0 0 10px rgba(255, 121, 198, 0.5);"
   />
 </p>
-
 
 ---
 
