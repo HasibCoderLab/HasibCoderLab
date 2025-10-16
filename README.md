@@ -68,7 +68,7 @@ I am a <strong>Web Developer & Competitive Programmer 💖✨</strong> driven by
 - 📫 **Reach Me:**  
   [coder.mohammadhasibhasan@gmail.com](mailto:coder.mohammadhasibhasan@gmail.com)  
 
----
+
 
 
 ---
@@ -76,9 +76,7 @@ I am a <strong>Web Developer & Competitive Programmer 💖✨</strong> driven by
 <h3 align="center">✨✨ <i>Always learning, always growing!</i> ✨✨</h3>
 <hr style="border: 1px solid #999; width: 80%; margin: auto;" />
 
----
 
----
 
 <h1 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='50'/>
@@ -92,51 +90,71 @@ I am a <strong>Web Developer & Competitive Programmer 💖✨</strong> driven by
     <th>🧠 Programming Languages</th>
     <th>🎨 Frontend Tools</th>
     <th>⚙️ Frameworks / Libraries</th>
+    <th>🧰 Tools</th>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
-      </a>
-      <a href="https://www.learn-c.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C" />
-      </a>
-      <a href="https://isocpp.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" />
-      </a>
+      <div style="display:inline-block; padding:10px; margin:5px; border-radius:10px; border:1px solid #ff79c6; box-shadow:0 0 10px rgba(255,121,198,0.3);">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" /><br>JS
+        </a>
+      </div>
+      <div style="display:inline-block; padding:10px; margin:5px; border-radius:10px; border:1px solid #ff79c6; box-shadow:0 0 10px rgba(255,121,198,0.3);">
+        <a href="https://www.learn-c.org/" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C" /><br>C
+        </a>
+      </div>
+      <div style="display:inline-block; padding:10px; margin:5px; border-radius:10px; border:1px solid #ff79c6; box-shadow:0 0 10px rgba(255,121,198,0.3);">
+        <a href="https://isocpp.org/" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" /><br>C++
+        </a>
+      </div>
     </td>
     <td align="center">
-      <a href="https://www.w3.org/html/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5" />
-      </a>
-      <a href="https://www.w3schools.com/css/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3" />
-      </a>
-      <a href="https://tailwindcss.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="TailwindCSS" />
-      </a>
+      <div style="display:inline-block; padding:10px; margin:5px; border-radius:10px; border:1px solid #79c6ff; box-shadow:0 0 10px rgba(121,198,255,0.3);">
+        <a href="https://www.w3.org/html/" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5" /><br>HTML
+        </a>
+      </div>
+      <div style="display:inline-block; padding:10px; margin:5px; border-radius:10px; border:1px solid #79c6ff; box-shadow:0 0 10px rgba(121,198,255,0.3);">
+        <a href="https://www.w3schools.com/css/" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3" /><br>CSS
+        </a>
+      </div>
+      <div style="display:inline-block; padding:10px; margin:5px; border-radius:10px; border:1px solid #79c6ff; box-shadow:0 0 10px rgba(121,198,255,0.3);">
+        <a href="https://tailwindcss.com/" target="_blank">
+          <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="TailwindCSS" /><br>Tailwind
+        </a>
+      </div>
     </td>
     <td align="center">
-      <a href="https://reactjs.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React" />
-      </a>
+      <div style="display:inline-block; padding:10px; margin:5px; border-radius:10px; border:1px solid #c679ff; box-shadow:0 0 10px rgba(198,121,255,0.3);">
+        <a href="https://reactjs.org/" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React" /><br>React
+        </a>
+      </div>
+    </td>
+    <td align="center">
+      <div style="display:inline-block; padding:10px; margin:5px; border-radius:10px; border:1px solid #ffbc79; box-shadow:0 0 10px rgba(255,188,121,0.3);">
+        <a href="https://code.visualstudio.com/" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" /><br>VS Code
+        </a>
+      </div>
+      <div style="display:inline-block; padding:10px; margin:5px; border-radius:10px; border:1px solid #ffbc79; box-shadow:0 0 10px rgba(255,188,121,0.3);">
+        <a href="https://www.linux.org/" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" /><br>Linux
+        </a>
+      </div>
+      <div style="display:inline-block; padding:10px; margin:5px; border-radius:10px; border:1px solid #ffbc79; box-shadow:0 0 10px rgba(255,188,121,0.3);">
+        <a href="https://git-scm.com/" target="_blank">
+          <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git" /><br>Git
+        </a>
+      </div>
     </td>
   </tr>
 </table>
 
 </div>
-
----
-
-<p align="center">
-  <img 
-    src="https://readme-jokes.vercel.app/api?bgColor=%230d1117&qColor=%23ffffff&aColor=%23ff79c6&borderColor=%23ff79c6" 
-    alt="Jokes" 
-    width="90%" 
-    style="max-width: 900px; border-radius: 12px; box-shadow: 0 0 10px rgba(255, 121, 198, 0.5);"
-  />
-</p>
-
 
 ---
 
