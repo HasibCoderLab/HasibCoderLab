@@ -42,28 +42,47 @@ I am a <strong>Web Developer & Competitive Programmer 💖✨</strong> driven by
 
 
 
----
-<h1 align="center">
- 🚀 About Me
-</h1>
 
-- 🎯 **Currently Learning:**  
-   Next.Js,TypeScript 
+<hr />
 
-- 🥅 **2025 Goals:**  
-  Master Next.js, Python, and Linux  
+<h1 align="center">🚀 About Me</h1>
 
-- 🥅 **2026 Goals:**  
-  Master AWS, dive into DevOps, and explore Cyber Security  
+<ul>
+  <li>
+    🎯 <strong>Currently Learning:</strong><br />
+    MERN Stack (MongoDB, Express, React, Node.js)
+  </li>
 
-- 🕵️‍♂️ **Portfolio:**  
-  [Visit my portfolio](https://coderhasib.vercel.app/) for more details  
+  <br />
 
-- 📚 **Also Exploring:**  
-  Problem-Solving Strategies & Competitive Programming 🏆
-  
-- 💻 **Current Focus:**  
-  Working on personal projects & 🌌 Turning code into creativity — Web | C++ | Next.js 
+  <li>
+    🥅 <strong>2026 Goals:</strong><br />
+    Master MERN Stack, build real-world projects, and strengthen backend security
+  </li>
+
+  <br />
+
+  <li>
+    💻 <strong>Current Focus:</strong><br />
+    Building production-ready MERN Stack projects
+  </li>
+
+  <br />
+
+  <li>
+    📚 <strong>Also Exploring:</strong><br />
+    Problem-Solving & Competitive Programming 🏆
+  </li>
+
+  <br />
+
+  <li>
+    🕵️‍♂️ <strong>Portfolio:</strong><br />
+    <a href="https://coderhasib.vercel.app/" target="_blank">
+      Visit my portfolio
+    </a>
+  </li>
+</ul>
 
 - 📫 **Reach Me:**  
   [coder.mohammadhasibhasan@gmail.com](mailto:coder.mohammadhasibhasan@gmail.com)  
