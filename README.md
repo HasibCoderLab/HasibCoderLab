@@ -154,12 +154,9 @@ I am a <strong>Web Developer & Competitive Programmer 💖✨</strong> driven by
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
 </h1>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HasibCoderLab&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10" width="330" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HasibCoderLab&theme=tokyonight&hide_border=false" width="330" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasibCoderLab&layout=compact&theme=tokyonight&hide_border=false" width="330" />
-</p>
-
+<div align="center">
+  <img src="https://yourinsights.vercel.app/api/insight?username=HasibCoderLab&theme=ocean&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
+</div>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=HasibCoderLab&theme=matrix&column=6&margin-w=15&margin-h=15" alt="Trophies"/>
