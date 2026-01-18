@@ -55,7 +55,7 @@ I am a <strong>Web Developer & Competitive Programmer 💖✨</strong> driven by
 
   <li>
     🥅 <strong>2026 Goals:</strong><br />
-    Master MERN Stack, build 3–5 real-world projects, and strengthen backend & API security
+    Master MERN Stack,Next.js build 3–5 real-world projects, and strengthen backend & API security
   </li>
 
   <br />
