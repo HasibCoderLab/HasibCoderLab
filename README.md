@@ -41,8 +41,6 @@ I am a <strong>Web Developer & Competitive Programmer 💖✨</strong> driven by
 
 
 
-
-
 <hr />
 
 <h1 align="center">🚀 About Me</h1>
@@ -57,7 +55,14 @@ I am a <strong>Web Developer & Competitive Programmer 💖✨</strong> driven by
 
   <li>
     🥅 <strong>2026 Goals:</strong><br />
-    Master MERN Stack, build real-world projects, and strengthen backend security
+    Master MERN Stack, build 3–5 real-world projects, and strengthen backend & API security
+  </li>
+
+  <br />
+
+  <li>
+    🥅 <strong>2027 Goals:</strong><br />
+    Learn AWS, explore DevOps fundamentals, and dive into Cyber Security
   </li>
 
   <br />
@@ -83,6 +88,7 @@ I am a <strong>Web Developer & Competitive Programmer 💖✨</strong> driven by
     </a>
   </li>
 </ul>
+
 
 - 📫 **Reach Me:**  
   [coder.mohammadhasibhasan@gmail.com](mailto:coder.mohammadhasibhasan@gmail.com)  
