@@ -83,7 +83,7 @@ I am a <strong>Web Developer & Competitive Programmer 💖✨</strong> driven by
 
   <li>
     🕵️‍♂️ <strong>Portfolio:</strong><br />
-    <a href="https://coderhasib.vercel.app/" target="_blank">
+    <a href="https://coderhasibh.vercel.app/" target="_blank">
       Visit my portfolio
     </a>
   </li>
@@ -91,7 +91,7 @@ I am a <strong>Web Developer & Competitive Programmer 💖✨</strong> driven by
 
 
 - 📫 **Reach Me:**  
-  [coder.mohammadhasibhasan@gmail.com](mailto:coder.mohammadhasibhasan@gmail.com)  
+  [coder.mohammadhasibhasan@gmail.com](mailto:coderhasibh@gmail.com)  
 
 
 
