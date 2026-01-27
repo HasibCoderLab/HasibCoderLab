@@ -198,12 +198,12 @@ I am a <strong>Web Developer & Competitive Programmer 💖✨</strong> driven by
   </a>
 
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/coder-mohammod-hasib-hasan" target="_blank">
+  <a href="https://www.linkedin.com/in/coderhasibh" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 
   <!-- X / Twitter -->
-  <a href="https://x.com/Coderhasib" target="_blank">
+  <a href="https://x.com/coderhasibh" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
   </a>
 
@@ -213,7 +213,7 @@ I am a <strong>Web Developer & Competitive Programmer 💖✨</strong> driven by
   </a>
 
   <!-- LeetCode -->
-  <a href="https://leetcode.com/u/CoderHasib/" target="_blank">
+  <a href="https://leetcode.com/u/coderhasibh/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
 
@@ -223,7 +223,7 @@ I am a <strong>Web Developer & Competitive Programmer 💖✨</strong> driven by
   </a>
 
   <!-- Facebook -->
-  <a href="https://www.facebook.com/coder.mohammadhasibhasan" target="_blank">
+  <a href="https://www.facebook.com/coderhasibh" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
 
@@ -233,7 +233,7 @@ I am a <strong>Web Developer & Competitive Programmer 💖✨</strong> driven by
   </a>
 
   <!-- Instagram -->
-  <a href="https://instagram.com/mohammad_hasib_hasan" target="_blank">
+  <a href="https://instagram.com/coderhasibh" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
 </p>
