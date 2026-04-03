@@ -101,63 +101,107 @@ I am a <strong>Web Developer & Competitive Programmer 💖✨</strong> driven by
 <h3 align="center">✨✨ <i>Always learning, always growing!</i> ✨✨</h3>
 <hr style="border: 1px solid #999; width: 80%; margin: auto;" />
 
-
 <h1 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='50'/>
   &nbsp;Technologies that I know
 </h1>
 
-<div align="center">
-
-<table>
-  <tr>
-    <th>🧠 Programming Languages</th>
-    <th>🎨 Frontend Tools</th>
-    <th>⚙️ Frameworks / Libraries</th>
-    <th>🧰 Tools</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <div style="display:inline-block; padding:10px; margin:5px; border-radius:10px; border:1px solid #ff79c6; box-shadow:0 0 10px rgba(255,121,198,0.3); text-decoration:none;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" /><br>JS
-      </div>
-      <div style="display:inline-block; padding:10px; margin:5px; border-radius:10px; border:1px solid #ff79c6; box-shadow:0 0 10px rgba(255,121,198,0.3); text-decoration:none;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C" /><br>C
-      </div>
-      <div style="display:inline-block; padding:10px; margin:5px; border-radius:10px; border:1px solid #ff79c6; box-shadow:0 0 10px rgba(255,121,198,0.3); text-decoration:none;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" /><br>C++
-      </div>
-    </td>
-    <td align="center">
-      <div style="display:inline-block; padding:10px; margin:5px; border-radius:10px; border:1px solid #79c6ff; box-shadow:0 0 10px rgba(121,198,255,0.3); text-decoration:none;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5" /><br>HTML
-      </div>
-      <div style="display:inline-block; padding:10px; margin:5px; border-radius:10px; border:1px solid #79c6ff; box-shadow:0 0 10px rgba(121,198,255,0.3); text-decoration:none;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3" /><br>CSS
-      </div>
-      <div style="display:inline-block; padding:10px; margin:5px; border-radius:10px; border:1px solid #79c6ff; box-shadow:0 0 10px rgba(121,198,255,0.3); text-decoration:none;">
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="TailwindCSS" /><br>Tailwind
-      </div>
-    </td>
-    <td align="center">
-      <div style="display:inline-block; padding:10px; margin:5px; border-radius:10px; border:1px solid #c679ff; box-shadow:0 0 10px rgba(198,121,255,0.3); text-decoration:none;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React" /><br>React
-      </div>
-    </td>
-    <td align="center">
-      <div style="display:inline-block; padding:10px; margin:5px; border-radius:10px; border:1px solid #ffbc79; box-shadow:0 0 10px rgba(255,188,121,0.3); text-decoration:none;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" /><br>VS Code
-      </div>
-      <div style="display:inline-block; padding:10px; margin:5px; border-radius:10px; border:1px solid #ffbc79; box-shadow:0 0 10px rgba(255,188,121,0.3); text-decoration:none;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" /><br>Linux
-      </div>
-      <div style="display:inline-block; padding:10px; margin:5px; border-radius:10px; border:1px solid #ffbc79; box-shadow:0 0 10px rgba(255,188,121,0.3); text-decoration:none;">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git" /><br>Git
-      </div>
-    </td>
-  </tr>
-</table>
-
+<div align="center" style="overflow-x: auto; padding: 10px 0;">
+  <table style="min-width: 1000px; margin: 0 auto; border-collapse: separate; border-spacing: 8px;">
+    <thead>
+      <tr>
+        <th align="center" style="padding: 12px; color:#ff79c6;">🧠 Programming Languages</th>
+        <th align="center" style="padding: 12px; color:#79c6ff;">🎨 Frontend Tools</th>
+        <th align="center" style="padding: 12px; color:#c679ff;">⚙️ Frameworks / Libraries</th>
+        <th align="center" style="padding: 12px; color:#ffbc79;">🧰 Tools</th>
+        <th align="center" style="padding: 12px; color:#68a063;">🛠️ Backend Technologies</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center" valign="top" style="padding: 15px; background: rgba(255,121,198,0.05); border-radius: 12px;">
+          <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:12px;">
+            <div style="display:inline-block; padding:10px; margin:5px; border-radius:10px; border:1px solid #ff79c6; box-shadow:0 0 10px rgba(255,121,198,0.3);">
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" /><br/>JS
+            </div>
+            <div style="display:inline-block; padding:10px; margin:5px; border-radius:10px; border:1px solid #ff79c6; box-shadow:0 0 10px rgba(255,121,198,0.3);">
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C" /><br/>C
+            </div>
+            <div style="display:inline-block; padding:10px; margin:5px; border-radius:10px; border:1px solid #ff79c6; box-shadow:0 0 10px rgba(255,121,198,0.3);">
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" /><br/>C++
+            </div>
+          </div>
+        </td>
+        <td align="center" valign="top" style="padding: 15px; background: rgba(121,198,255,0.05); border-radius: 12px;">
+          <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:12px;">
+            <div style="display:inline-block; padding:10px; margin:5px; border-radius:10px; border:1px solid #79c6ff; box-shadow:0 0 10px rgba(121,198,255,0.3);">
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5" /><br/>HTML
+            </div>
+            <div style="display:inline-block; padding:10px; margin:5px; border-radius:10px; border:1px solid #79c6ff; box-shadow:0 0 10px rgba(121,198,255,0.3);">
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3" /><br/>CSS
+            </div>
+            <div style="display:inline-block; padding:10px; margin:5px; border-radius:10px; border:1px solid #79c6ff; box-shadow:0 0 10px rgba(121,198,255,0.3);">
+              <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="TailwindCSS" /><br/>Tailwind
+            </div>
+          </div>
+        </td>
+        <td align="center" valign="top" style="padding: 15px; background: rgba(198,121,255,0.05); border-radius: 12px;">
+          <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:12px;">
+            <div style="display:inline-block; padding:10px; margin:5px; border-radius:10px; border:1px solid #c679ff; box-shadow:0 0 10px rgba(198,121,255,0.3);">
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React" /><br/>React
+            </div>
+            <div style="display:inline-block; padding:10px; margin:5px; border-radius:10px; border:1px solid #c679ff; box-shadow:0 0 10px rgba(198,121,255,0.3);">
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" width="40" height="40" alt="Next.js" style="background:#fff; border-radius:8px;" /><br/>Next.js
+            </div>
+          </div>
+        </td>
+        <td align="center" valign="top" style="padding: 15px; background: rgba(255,188,121,0.05); border-radius: 12px;">
+          <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:12px;">
+            <div style="display:inline-block; padding:10px; margin:5px; border-radius:10px; border:1px solid #ffbc79; box-shadow:0 0 10px rgba(255,188,121,0.3);">
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" /><br/>VS Code
+            </div>
+            <div style="display:inline-block; padding:10px; margin:5px; border-radius:10px; border:1px solid #ffbc79; box-shadow:0 0 10px rgba(255,188,121,0.3);">
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" /><br/>Linux
+            </div>
+            <div style="display:inline-block; padding:10px; margin:5px; border-radius:10px; border:1px solid #ffbc79; box-shadow:0 0 10px rgba(255,188,121,0.3);">
+              <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git" /><br/>Git
+            </div>
+          </div>
+        </td>
+        <td align="center" valign="top" style="padding: 15px; background: rgba(104,160,99,0.05); border-radius: 12px;">
+          <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:12px;">
+            <div style="display:inline-block; padding:10px; margin:5px; border-radius:10px; border:1px solid #68a063; box-shadow:0 0 10px rgba(104,160,99,0.3);">
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js" /><br/>Node.js
+            </div>
+            <div style="display:inline-block; padding:10px; margin:5px; border-radius:10px; border:1px solid #68a063; box-shadow:0 0 10px rgba(104,160,99,0.3);">
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40" alt="Express" /><br/>Express
+            </div>
+            <div style="display:inline-block; padding:10px; margin:5px; border-radius:10px; border:1px solid #47a248; box-shadow:0 0 10px rgba(71,162,72,0.3);">
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB" /><br/>MongoDB
+            </div>
+            <div style="display:inline-block; padding:10px; margin:5px; border-radius:10px; border:1px solid #47a248; box-shadow:0 0 10px rgba(71,162,72,0.3);">
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongoose/mongoose-original.svg" width="40" height="40" alt="Mongoose" /><br/>Mongoose
+            </div>
+            <div style="display:inline-block; padding:10px; margin:5px; border-radius:10px; border:1px solid #3178c6; box-shadow:0 0 10px rgba(49,120,198,0.3);">
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" /><br/>TypeScript
+            </div>
+            <div style="display:inline-block; padding:10px; margin:5px; border-radius:10px; border:1px solid #ffbc79; box-shadow:0 0 10px rgba(255,188,121,0.3);">
+              <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="40" height="40" alt="Netlify" /><br/>Netlify
+            </div>
+            <div style="display:inline-block; padding:10px; margin:5px; border-radius:10px; border:1px solid #ffbc79; box-shadow:0 0 10px rgba(255,188,121,0.3);">
+              <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" width="40" height="40" alt="Canva" /><br/>Canva
+            </div>
+            <div style="display:inline-block; padding:10px; margin:5px; border-radius:10px; border:1px solid #ffbc79; box-shadow:0 0 10px rgba(255,188,121,0.3);">
+              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/2048px-Notion-logo.svg.png" width="40" height="40" alt="Notion" style="filter: brightness(0) invert(1);" /><br/>Notion
+            </div>
+            <div style="display:inline-block; padding:12px 10px; margin:5px; border-radius:10px; border:1px solid #68a063; box-shadow:0 0 10px rgba(104,160,99,0.3); font-size:13px; line-height:1.4;">
+              JWT<br/>Rest APIs
+            </div>
+          </div>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </div>
 
 ---
