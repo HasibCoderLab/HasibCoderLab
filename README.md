@@ -91,7 +91,7 @@ I am a <strong>Web Developer & Competitive Programmer 💖✨</strong> driven by
 
 
 - 📫 **Reach Me:**  
-  [coderhasibh@gmail.com](mailto:coderhasibh@gmail.com)  
+  [mohammodhasibhasan@gmail.com](mailto:mohammodhasibhasan@gmail.com)  
 
 
 
@@ -103,7 +103,7 @@ I am a <strong>Web Developer & Competitive Programmer 💖✨</strong> driven by
 
 <h1 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='50'/>
-  &nbsp;Technologies that I know
+  &nbsp; Technologies that I know
 </h1>
 
 <div align="center" style="overflow-x: auto; padding: 10px 0;">
