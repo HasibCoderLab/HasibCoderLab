@@ -29,12 +29,12 @@
   <img src="https://bestanimations.com/media/bangladesh/1932860375bangladesh-flag-waving-gif-animation-6.gif" width="90" height="55" alt="Bangladesh Flag"/><br/>
   ⚡ It's me, <strong>Mohammod Hasib Hasan</strong> ✨👋
   <br/>
-   <em>💻 Crafting Ideas into Code | Enthusiastic Web Developer & Competitive Programmer from Bangladesh✨✨</em>
+   <em>💻 Crafting Ideas into Code | Enthusiastic Web Developer & Competitive Programmer from Bangladesh</em>
 
 </h3>
 
 <p align="center">
-I am a <strong>Web Developer & Competitive Programmer 💖✨</strong> driven by a passion for creating innovative and user-friendly web solutions.<br/>
+I am a <strong>Web Developer & Competitive Programmer ✨</strong> driven by a passion for creating innovative and user-friendly web solutions.<br/>
   Proficient in <strong>💥 TypeScript </strong> and <strong>🎯 Next.Js</strong>, with a strong foundation in Web development, algorithms, and problem-solving.<br/>
   Always eager to apply my skills, embrace new opportunities, and contribute to building the next generation of digital experiences 🚀.
 </p>
@@ -55,7 +55,7 @@ I am a <strong>Web Developer & Competitive Programmer 💖✨</strong> driven by
 
   <li>
     🥅 <strong>2026 Goals:</strong><br />
-    Master MERN Stack,Next.js build 3–5 real-world projects, and strengthen backend & API security
+    Master MERN Stack, Next.js build 3–5 real-world projects, and strengthen backend & API security
   </li>
 
   <br />
