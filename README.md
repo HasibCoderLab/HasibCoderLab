@@ -106,104 +106,47 @@ I am a <strong>Web Developer & Competitive Programmer ✨</strong> driven by a p
   &nbsp; Technologies that I know
 </h1>
 
-<div align="center" style="overflow-x: auto; padding: 10px 0;">
-  <table style="min-width: 1000px; margin: 0 auto; border-collapse: separate; border-spacing: 8px;">
-    <thead>
-      <tr>
-        <th align="center" style="padding: 12px; color:#ff79c6;">🧠 Programming Languages</th>
-        <th align="center" style="padding: 12px; color:#79c6ff;">🎨 Frontend Tools</th>
-        <th align="center" style="padding: 12px; color:#c679ff;">⚙️ Frameworks / Libraries</th>
-        <th align="center" style="padding: 12px; color:#ffbc79;">🧰 Tools</th>
-        <th align="center" style="padding: 12px; color:#68a063;">🛠️ Backend Technologies</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td align="center" valign="top" style="padding: 15px; background: rgba(255,121,198,0.05); border-radius: 12px;">
-          <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:12px;">
-            <div style="display:inline-block; padding:10px; margin:5px; border-radius:10px; border:1px solid #ff79c6; box-shadow:0 0 10px rgba(255,121,198,0.3);">
-              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" /><br/>JS
-            </div>
-            <div style="display:inline-block; padding:10px; margin:5px; border-radius:10px; border:1px solid #ff79c6; box-shadow:0 0 10px rgba(255,121,198,0.3);">
-              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C" /><br/>C
-            </div>
-            <div style="display:inline-block; padding:10px; margin:5px; border-radius:10px; border:1px solid #ff79c6; box-shadow:0 0 10px rgba(255,121,198,0.3);">
-              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" /><br/>C++
-            </div>
-          </div>
-        </td>
-        <td align="center" valign="top" style="padding: 15px; background: rgba(121,198,255,0.05); border-radius: 12px;">
-          <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:12px;">
-            <div style="display:inline-block; padding:10px; margin:5px; border-radius:10px; border:1px solid #79c6ff; box-shadow:0 0 10px rgba(121,198,255,0.3);">
-              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5" /><br/>HTML
-            </div>
-            <div style="display:inline-block; padding:10px; margin:5px; border-radius:10px; border:1px solid #79c6ff; box-shadow:0 0 10px rgba(121,198,255,0.3);">
-              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3" /><br/>CSS
-            </div>
-            <div style="display:inline-block; padding:10px; margin:5px; border-radius:10px; border:1px solid #79c6ff; box-shadow:0 0 10px rgba(121,198,255,0.3);">
-              <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="TailwindCSS" /><br/>Tailwind
-            </div>
-          </div>
-        </td>
-        <td align="center" valign="top" style="padding: 15px; background: rgba(198,121,255,0.05); border-radius: 12px;">
-          <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:12px;">
-            <div style="display:inline-block; padding:10px; margin:5px; border-radius:10px; border:1px solid #c679ff; box-shadow:0 0 10px rgba(198,121,255,0.3);">
-              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React" /><br/>React
-            </div>
-            <div style="display:inline-block; padding:10px; margin:5px; border-radius:10px; border:1px solid #c679ff; box-shadow:0 0 10px rgba(198,121,255,0.3);">
-              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" width="40" height="40" alt="Next.js" style="background:#fff; border-radius:8px;" /><br/>Next.js
-            </div>
-          </div>
-        </td>
-        <td align="center" valign="top" style="padding: 15px; background: rgba(255,188,121,0.05); border-radius: 12px;">
-          <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:12px;">
-            <div style="display:inline-block; padding:10px; margin:5px; border-radius:10px; border:1px solid #ffbc79; box-shadow:0 0 10px rgba(255,188,121,0.3);">
-              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" /><br/>VS Code
-            </div>
-            <div style="display:inline-block; padding:10px; margin:5px; border-radius:10px; border:1px solid #ffbc79; box-shadow:0 0 10px rgba(255,188,121,0.3);">
-              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" /><br/>Linux
-            </div>
-            <div style="display:inline-block; padding:10px; margin:5px; border-radius:10px; border:1px solid #ffbc79; box-shadow:0 0 10px rgba(255,188,121,0.3);">
-              <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git" /><br/>Git
-            </div>
-          </div>
-        </td>
-        <td align="center" valign="top" style="padding: 15px; background: rgba(104,160,99,0.05); border-radius: 12px;">
-          <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:12px;">
-            <div style="display:inline-block; padding:10px; margin:5px; border-radius:10px; border:1px solid #68a063; box-shadow:0 0 10px rgba(104,160,99,0.3);">
-              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js" /><br/>Node.js
-            </div>
-            <div style="display:inline-block; padding:10px; margin:5px; border-radius:10px; border:1px solid #68a063; box-shadow:0 0 10px rgba(104,160,99,0.3);">
-              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40" alt="Express" /><br/>Express
-            </div>
-            <div style="display:inline-block; padding:10px; margin:5px; border-radius:10px; border:1px solid #47a248; box-shadow:0 0 10px rgba(71,162,72,0.3);">
-              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB" /><br/>MongoDB
-            </div>
-            <div style="display:inline-block; padding:10px; margin:5px; border-radius:10px; border:1px solid #47a248; box-shadow:0 0 10px rgba(71,162,72,0.3);">
-              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongoose/mongoose-original.svg" width="40" height="40" alt="Mongoose" /><br/>Mongoose
-            </div>
-            <div style="display:inline-block; padding:10px; margin:5px; border-radius:10px; border:1px solid #3178c6; box-shadow:0 0 10px rgba(49,120,198,0.3);">
-              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" /><br/>TypeScript
-            </div>
-            <div style="display:inline-block; padding:10px; margin:5px; border-radius:10px; border:1px solid #ffbc79; box-shadow:0 0 10px rgba(255,188,121,0.3);">
-              <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="40" height="40" alt="Netlify" /><br/>Netlify
-            </div>
-            <div style="display:inline-block; padding:10px; margin:5px; border-radius:10px; border:1px solid #ffbc79; box-shadow:0 0 10px rgba(255,188,121,0.3);">
-              <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" width="40" height="40" alt="Canva" /><br/>Canva
-            </div>
-            <div style="display:inline-block; padding:10px; margin:5px; border-radius:10px; border:1px solid #ffbc79; box-shadow:0 0 10px rgba(255,188,121,0.3);">
-              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/2048px-Notion-logo.svg.png" width="40" height="40" alt="Notion" style="filter: brightness(0) invert(1);" /><br/>Notion
-            </div>
-            <div style="display:inline-block; padding:12px 10px; margin:5px; border-radius:10px; border:1px solid #68a063; box-shadow:0 0 10px rgba(104,160,99,0.3); font-size:13px; line-height:1.4;">
-              JWT<br/>Rest APIs
-            </div>
-          </div>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
 
+**🖥️ Frontend**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+
+**⚙️ Backend & Database**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+**🧰 Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+
+**💻 Programming Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ---
 
 <p align="center">
